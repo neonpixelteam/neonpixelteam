@@ -9,9 +9,8 @@
 
 ## 🚀 Darbareye Ma (About Us)
 * 💻 **Team:** Neon Pixel
-* 🪐 **Mission:** Touse'eh-ye softwar-haye poya, modern va ba keifiat-e bala.
-* 👥 **Vibe:** Ye tim-e khallagh, por-energy va pixel-perfect! 🎯
-* 📍 **Location:** Tehran, Iran (Remote Base)
+* 🪐 **Mission:** sakt behtarin ha baray behtarin ha.
+* 📍 **Location:** (Remote Base)
 
 ---
 
