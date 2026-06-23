@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/content?type=waving&color=00d2ff&height=150&section=header&text=Neon%20Pixel%20Team&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
-### 🌌 Dynamic. Creative. Pixel Perfect.
-> **Ma inja jam shodim ta ide-haye shoma ro ba code-haye tamiz va design-haye neon-i tabdil be vagheiat konim.** 🚀✨
 
 ---
 
@@ -22,10 +20,10 @@
 Baraye kholgh-e prožeh-hamon az in teknoloži-ha estefadeh mikonim:
 
 | Backend | Frontend | DevOps & Tools |
-| :---: | :---: | :---: |
-| 🐍 Python | ⚛️ React / Next.js | 🐳 Docker |
-| 🐘 PHP (Laravel) | 🎨 Tailwind CSS | 🐙 GitHub |
-| 🚀 Node.js | 📱 Flutter | ⚙️ Shell Scripts |
+| 🐍 Python | ⚛️ React / Next.js | 🕹️py-game  |
+| 🐘 PHP | 🎨 Tailwind CSS | 🐙 GitHub |
+| 🚀 Node.js |  ⚙️ Shell Scripts |🕹️ Git |
+
 
 ---
 
@@ -40,8 +38,8 @@ Baraye kholgh-e prožeh-hamon az in teknoloži-ha estefadeh mikonim:
 
 ## 🤝 Hamkari ba Ma (Connect & Collaborate)
 Prožeh-haye Open-Source ma ro donbal konid ya baraye hamkari ba ma dar ertebat bashiid:
-* ✉️ **Email:** info@neonpixelteam.com
-* 🌐 **Website:** Coming Soon... 🪐
+* ✉️ **Email:** neonpixelir@gmail.com
+* 🌐 **Website:** www.neonpixel.ir 🪐
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&color=00d2ff&height=80&section=footer" width="100%" />
