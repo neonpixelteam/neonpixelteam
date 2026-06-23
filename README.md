@@ -7,16 +7,15 @@
 
 ---
 
-## 🚀 Darbareye Ma (About Us)
+## 🚀 About Us
 * 💻 **Team:** Neon Pixel
 * 🪐 **Mission:** sakt behtarin ha baray behtarin ha.
 * 📍 **Location:** (Remote Base)
 
 ---
 
-## 🛠️ Tech Stack (Abzar-haye Ma)
+## 🛠️ Tech Stack 
 
-Baraye kholgh-e prožeh-hamon az in teknoloži-ha estefadeh mikonim:
 
 | Backend | Frontend | DevOps & Tools |
 | 🐍 Python | ⚛️ React / Next.js | 🕹️py-game  |
@@ -26,7 +25,7 @@ Baraye kholgh-e prožeh-hamon az in teknoloži-ha estefadeh mikonim:
 
 ---
 
-## 📊 Team Stats (Amare GitHab-e Ma)
+## 📊 Team Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neonpixelteam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Neon Pixel Stats" width="48%" />
@@ -35,7 +34,7 @@ Baraye kholgh-e prožeh-hamon az in teknoloži-ha estefadeh mikonim:
 
 ---
 
-## 🤝 Hamkari ba Ma (Connect & Collaborate)
+## 🤝 Connect & Collaborate
 Prožeh-haye Open-Source ma ro donbal konid ya baraye hamkari ba ma dar ertebat bashiid:
 * ✉️ **Email:** neonpixelir@gmail.com
 * 🌐 **Website:** www.neonpixel.ir 🪐
