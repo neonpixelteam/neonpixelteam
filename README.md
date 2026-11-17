@@ -1,28 +1,59 @@
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Open-source apps for people who build. Desktop apps, downloaders and learning material, made in the open and kept simple." width="100%"></picture>
-<br><br>
-<a href="https://github.com/neonpixelteam?tab=repositories&q=&type=source"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-projects-dark.svg"><img src="assets/btn-projects-light.svg" alt="Browse projects"></picture></a>&nbsp;<a href="https://www.neonpixel.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-coffee-dark.svg"><img src="assets/btn-coffee-light.svg" alt="Visit website"></picture></a>
-<br><br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-featured-dark.svg"><img src="assets/h-featured-light.svg" alt="Featured projects" width="100%"></picture>
 
-<a href="https://github.com/neonpixelteam/neo-dl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/card-neo-dl-dark.svg"><img src="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/card-neo-dl-light.svg" alt="neo-dl" width="49%"></picture></a>
+# ⚡ Neon Pixel Team ⚡
 
-<br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-more-dark.svg"><img src="assets/h-more-light.svg" alt="More from the workshop" width="100%"></picture>
+### ساخت بهترین‌ها برای بهترین‌ها
+*Building the best for the best.*
 
-<a href="https://github.com/neonpixelteam/NEX_CHAT_APK"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/mini-NEX_CHAT_APK-dark.svg"><img src="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/mini-NEX_CHAT_APK-light.svg" alt="NEX_CHAT_APK" width="49%"></picture></a>
-
-<br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-toolbox-dark.svg"><img src="assets/h-toolbox-light.svg" alt="Toolbox" width="100%"></picture>
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg"><img src="assets/toolbox-light.svg" alt="Python, PyQt6, PHP, Node.js, Java, Android, React, Next.js, Tailwind CSS, C++, Pygame, Shell, Git, GitHub Actions, Windows, Linux, REST APIs, Discord API" width="100%"></picture>
-<br><br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-activity-dark.svg"><img src="assets/h-activity-light.svg" alt="Activity" width="100%"></picture>
+
+[![Website](https://img.shields.io/badge/🌐_Website-neonpixel.ir-00E5FF?style=for-the-badge)](https://www.neonpixel.ir)
+[![Email](https://img.shields.io/badge/✉️_Contact-Email-FF2E97?style=for-the-badge)](mailto:neonpixelir@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-neonpixelteam-181717?style=for-the-badge&logo=github)](https://github.com/neonpixelteam)
+
+</div>
+
+---
+
+## 🚀 درباره ما
+
+**💻 تیم:** Neon Pixel &nbsp;·&nbsp; **🎯 ماموریت:** نرم‌افزارهای متن‌باز، ساده و باکیفیت &nbsp;·&nbsp; **📍 مکان:** تیم دورکار
+
+---
+
+## 🧩 پروژه‌ها
+
+| پروژه | توضیح | زبان / فناوری |
+|---|---|---|
+| [**NEO·DL**](https://github.com/neonpixelteam/neo-dl) | دانلود منیجر مینیمال با قابلیت ادامه‌ی دانلود، چند اتصاله و رابط EN / FA / AR | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) |
+| [**NEX Chat**](https://github.com/neonpixelteam/NEX_CHAT_APK) | اپلیکیشن چت اندروید (فورک‌شده و توسعه‌یافته توسط تیم) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+
+---
+
+## 🛠️ فناوری‌ها
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🤝 همکاری و ارتباط
+
+پروژه‌های متن‌باز ما را ⭐ کنید، یا برای همکاری در تماس باشید:
+
+- ✉️ **ایمیل:** [neonpixelir@gmail.com](mailto:neonpixelir@gmail.com)
+- 🌐 **وب‌سایت:** [www.neonpixel.ir](https://www.neonpixel.ir)
+
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/stats-dark.svg"><img src="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/stats-light.svg" alt="GitHub stats" width="100%"></picture>
-<br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/neonpixelteam/neonpixelteam/output/snake-light.svg" alt="Contribution graph being eaten by a snake" width="100%"></picture>
-<br><br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=2"><img src="assets/footer-light.svg?v=2" alt="Thanks for stopping by." width="100%"></picture>
+
+**Thanks for stopping by.** ⚡
 
 </div>
